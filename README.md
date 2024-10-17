@@ -77,7 +77,6 @@ You can get it to speed up and slow down by modifying the max speeds at the top 
 The required Python packages are listed in requirements.txt:
 
     •	pydub
-    •	gtts
 
 ## License
 
